@@ -1,3 +1,2 @@
 # gallery
- Photo gallery CMS
- PHP oop practise project
+ Photo gallery CMS | PHP oop practise project
